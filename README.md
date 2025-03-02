@@ -14,8 +14,8 @@
 ## Experience
 - **🎓 Gachon University** (Mar. 2019 - Feb. 2025), Major in Computer Engineering
 - **Gachon SW Academy 5th** (Sep. 2024 - Feb. 2025)
-- **Leets 5rd FE** (Sep. 2024 - Dec. 2024)
-- **Leets 3rd FE** (Sep. 2023 - JAN. 2024)
+- **Leets 4rd FE** (Sep. 2024 - Dec. 2024)
+- **Leets 2rd FE** (Sep. 2023 - JAN. 2024)
 
 <br>
 
