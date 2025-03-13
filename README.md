@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=33312d&text=최민규(Moya)&height=180&fontSize=60&desc=프론트엔드%20주니어%20개발자&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFB300&text=최민규(Moya)&height=180&fontSize=60&desc=프론트엔드%20주니어%20개발자&descAlignY=75&descAlign=60)
 
 <div align="right">
   
