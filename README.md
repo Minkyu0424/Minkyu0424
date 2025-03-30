@@ -2,9 +2,7 @@
 
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinkyu0424&count_bg=%23909090&title_bg=%23393939&icon=github.svg&icon_color=%23D9D9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yng1404@gmail.com)](mailto:yng1404@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/m1nk1u/)](https://www.instagram.com/m1nk1u/)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white&link=https://minkyunoori.tistory.com/)](https://minkyunoori.tistory.com/)
   
 </div>
